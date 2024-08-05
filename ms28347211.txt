@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "ytta.in",
+  "Id": "40c9a452-7e40-4bcb-b016-09160783f198"
+}
